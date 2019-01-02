@@ -2,6 +2,7 @@ body{
   margin-top:70px;
 	font-size:16px;
 	height: 100%;
+	overflow-x: hidden;
 }
 
 h1,h2,h3,h4,h5,h6{
@@ -137,6 +138,7 @@ ul#intro-social {
 #resume .timeline-block {
 	position: relative;
 	padding-top: 1.5rem;
+	padding-left: 1.5rem;
 }
 #resume .timeline-ico {
 	height: 4.8rem;
